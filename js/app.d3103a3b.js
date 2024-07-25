@@ -1,4 +1,4 @@
-const OBJECT_ID_LEN = 4;
+const OBJECT_ID_LEN = 6;
 const ROW_ID_LEN = 4;
 const GROUP_ID_LEN = 2;
 const POINT_ID_LEN = 2;
